@@ -1,4 +1,5 @@
 ## Copyright (C) 2018 harol
+<<<<<<< HEAD
 ## 
 ## This program is free software; you can redistribute it and/or modify it
 ## under the terms of the GNU General Public License as published by
@@ -19,6 +20,8 @@
 ## @seealso{}
 ## @end deftypefn
 
+=======
+>>>>>>> 82370775a64660e04a762243c164411f7f665475
 ## Author: harol <harol@PC-HAROLD>
 ## Created: 2018-03-23
 
