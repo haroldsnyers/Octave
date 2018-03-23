@@ -1,4 +1,7 @@
-##travail Séance 2 2018 ECAM
+## Copyright (C) 2018 harol
+## Author: harol <harol@PC-HAROLD>
+## Created: 2018-03-23
+## travail Séance 1
 
 
 #vitesse allant de 0 à la vitesse de la lumière
