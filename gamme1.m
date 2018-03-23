@@ -1,4 +1,7 @@
-#vitesse allant de 0 à la vitesse de la lumière
+##travail SÃ©ance 2 2018 ECAM
+
+
+#vitesse allant de 0 Ã  la vitesse de la lumiÃ¨re
 v = [0:8000000:299792458]
 
 #calcul de gamma en fonction de la vitesse
@@ -7,7 +10,7 @@ y = gamma (v)
 hold on
 plot (v,y)
 axis("auto")
-title('la valeur de gamma en fonction de la vitesse de l’ objet considéré')
+title('la valeur de gamma en fonction de la vitesse de lâ€™ objet considÃ©rÃ©')
 xlabel('v')
 ylabel('y')
 legend('gamma')
