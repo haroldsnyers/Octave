@@ -1,5 +1,7 @@
-##Séance 2 ECAM 2018
-##Exercices 3 : translation
+## Copyright (C) 2018 harol
+## Author: harol <harol@PC-HAROLD>
+## Created: 2018-03-23
+## Séance 2, exercices 3, translation polygone
 
 
 function [x,y] = fill_Polygone(tx,ty)
