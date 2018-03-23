@@ -1,3 +1,7 @@
+##Séance 2 ECAM 2018
+##Exercices 3 : translation
+
+
 function [x,y] = fill_Polygone(tx,ty)
   t = (1/16:1/8:1)' * 2 * pi;
   x = cos (t);
