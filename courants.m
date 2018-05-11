@@ -1,6 +1,7 @@
 ## Copyright (C) 2018 harol
 ## Author: harol <harol@PC-HAROLD>
 ## Created: 2018-03-23
+## Séance 2, exercices 2, fonction permettant de résoudre un circuit possèdant une certaine structure 
 
 function [I1, I2, I3] = courants (Ug, fg, R1, R2, C, L)
   pi = 3.14159265359;
